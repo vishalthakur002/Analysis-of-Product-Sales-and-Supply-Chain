@@ -23,7 +23,7 @@ The goal is to extract meaningful insights that can support business decision-ma
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](./assets/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 > Make sure to upload your screenshot inside an `assets` folder and name it `dashboard.png`
 
